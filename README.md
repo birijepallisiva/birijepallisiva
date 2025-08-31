@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siva Sankar</h1>
-<h3 align="center">Engineering scalable systems that optimize real-world workflows.</h3>
 
----
+<h3 align="center">Building scalable systems that optimize real-world workflows.</h3>
 
 ### 🌐 Links & Contact
 
